@@ -3,12 +3,12 @@
     <channel>
         <title>Quick X Preview</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Wed, 26 Aug 2026 16:42:15 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Wed, 09 Sep 2026 00:02:22 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.0/Quick.X.Preview.1.0.dmg" length="3910008" type="application/octet-stream" sparkle:edSignature="Fmmtk5QKxhCpdG/E9mwbm5kRkoYJnTavKZ6HX32+a8+jonjHR6JoAW9XsuwuetZmMgA8sDru2KoSqXkz5f6dBA=="/>
+            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.1/Quick.X.Preview.1.1.dmg" length="3974844" type="application/octet-stream" sparkle:edSignature="p5rGznM1ua1rC/pegW1wQoUPtB24tzJNBfCwaLH2QZUeeNFWXKHIQ0iqEFulavcVZQ+FyFsa0RaONKI63o94Bw=="/>
         </item>
     </channel>
 </rss>
