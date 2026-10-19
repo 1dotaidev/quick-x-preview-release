@@ -3,6 +3,14 @@
     <channel>
         <title>Quick X Preview</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Mon, 19 Oct 2026 18:10:05 +0530</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.6/Quick.X.Preview.1.6.dmg" length="10272351" type="application/octet-stream" sparkle:edSignature="KTgK700+qRLh8JTvOjYcz47bP9990oR7P7YgQKLnNiS5IZAxPHEpTfQQbv00x3POujnGZnGhqI2QQYBfUeZGDw=="/>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Mon, 05 Oct 2026 19:18:08 +0530</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.4/Quick.X.Preview.1.4.dmg" length="9916682" type="application/octet-stream" sparkle:edSignature="knwhveYkIOUGdCjQg/L+iPHgJ9wGWuat7/PH7AHh3NTrpSiAkaW/7IAvzbqpokFJped3JyghcEPb186A+R01DA=="/>
-        </item>
-        <item>
-            <title>1.3</title>
-            <pubDate>Mon, 28 Sep 2026 18:49:30 +0530</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.3/Quick.X.Preview.1.3.dmg" length="9899318" type="application/octet-stream" sparkle:edSignature="GrSu8ussezQaV1nSQlveNU7/FVCxbCdZnbJfAtNnOI2ZT8Rby0LY3Jb0cnza4mPy+hy04FkVFFv2dgxMRrAIBg=="/>
         </item>
     </channel>
 </rss>
