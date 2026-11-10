@@ -23,7 +23,7 @@
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.9/Quick.X.Preview.1.7.dmg" length="9414656" type="application/octet-stream" sparkle:edSignature="L58WQNhy0kIhANqod6vJdwg+jWgZB+KDPo1k8rFMXAdnCtIhDAs35CD4uXEkcy34gifpmU2zpkimve2+FMHlBw=="/>
+            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.7/Quick.X.Preview.1.7.dmg" length="9414656" type="application/octet-stream" sparkle:edSignature="L58WQNhy0kIhANqod6vJdwg+jWgZB+KDPo1k8rFMXAdnCtIhDAs35CD4uXEkcy34gifpmU2zpkimve2+FMHlBw=="/>
         </item>
     </channel>
 </rss>
