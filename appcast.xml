@@ -18,21 +18,6 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>1.8</title>
-            <pubDate>Tue, 10 Nov 2026 15:14:26 +0530</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.9/Quick.X.Preview.1.8.dmg" length="10248098" type="application/octet-stream" sparkle:edSignature="9YjgWQljDumXxTuBpXyzX+6F0ImPio/7SOnKBFwZgiIRqn2Ri16Vn5XfE2izoXMjSj1ixX0XCdwMkgJwta37BA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.8/Quick%20X%20Preview9-8.delta" sparkle:deltaFrom="8" length="222598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AgZbn8ck0+zSD8T9V+DI8p9+GDxMJFxRQ4zedxRlL2wRHtIS9lUZKOmgOtWahIm/wTwlug4rngSVxGK0Vl+4Cg=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.8/Quick%20X%20Preview9-7.delta" sparkle:deltaFrom="7" length="575450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mJGGgtOxP5F8nl5tFa/CdxZKCQGzdxpWKXOmbqd32bwceedP6mQfqoR6169r+khHYscTEOZnIozKtQMLhAfTDg=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.8/Quick%20X%20Preview9-6.delta" sparkle:deltaFrom="6" length="668434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hXTwniZTD2gBcazuOaIMqCF5ID9H6+/DNgoLqWaTTfj3mCMHSODW9PWsMyZ/Z4/jj6a67yZLEH7lGShvy+AyAQ=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.8/Quick%20X%20Preview9-5.delta" sparkle:deltaFrom="5" length="668426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rEN2TlOHh9IoN5ELh+HjDLb96uLBOm7qDtOfah4kz5M9+qLCzWESsPpLhQbiZd/WWkX0F5n4Rv5W/KlFyX7nBg=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.8/Quick%20X%20Preview9-4.delta" sparkle:deltaFrom="4" length="809198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JLNDyqsS3svBpVFkSP3rpkoGUWayje/w/t3ryxdwtTMNLeLWxkxag6SaVSDEDOObSPyu/GD1HUhpOG0b7mOEAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>1.7</title>
             <pubDate>Tue, 20 Oct 2026 12:11:15 +0530</pubDate>
             <sparkle:version>8</sparkle:version>
