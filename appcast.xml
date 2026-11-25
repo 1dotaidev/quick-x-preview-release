@@ -3,6 +3,20 @@
     <channel>
         <title>Quick X Preview</title>
         <item>
+            <title>1.14</title>
+            <pubDate>Wed, 25 Nov 2026 12:14:00 +0530</pubDate>
+            <sparkle:criticalUpdate/>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.14/Quick.X.Preview.1.14.dmg" length="10380767" type="application/octet-stream" sparkle:edSignature="BkCByeTsQKvFA+lMoimlp2DMbY55DXyHI7BVJZgnPHCqCaQUs4HJu4ci9xdbYUDpPQFQTwnssrnGRc/GeX5PDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.14/Quick%20X%20Preview15-14.delta" sparkle:deltaFrom="14" length="475934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GygRkoUom5Xib0OdiJBJmTFh5nwwrnXvJ1F5gNA5qZWv9LgnUJkhs37QkW+7lkvGds4Ej7PvwsXRzywWu8ruDQ=="/>
+                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.14/Quick%20X%20Preview15-13.delta" sparkle:deltaFrom="13" length="629602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bJ0w250cr3FUf/tRzdEqelO9HrCvhAVMYTIpP6HBBrilFLsDSKn3UuYTelDlqJJSoNfH4Sgnc+++CdZfR9seCA=="/>
+                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.14/Quick%20X%20Preview15-12.delta" sparkle:deltaFrom="12" length="823718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XePcjVEJ1YrGdgYct9xkdMC9RHdfg09tw8Igg1vaJ1WZcFzrGurNJANToISl+Fz6oyxtuOydArBUE1JkDcUjBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.13</title>
             <pubDate>Wed, 25 Nov 2026 10:34:00 +0530</pubDate>
             <sparkle:criticalUpdate/>
@@ -25,22 +39,6 @@
             <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.12/Quick.X.Preview.1.12.dmg" length="10319383" type="application/octet-stream" sparkle:edSignature="Z1cYAZXLUXOpmhodaeSQsvHutz1f4UTmfMl/qt1iM/5QDMdb3FIRLLUbAx3jGlJRm7cLLbbeD0+DQmP4l+kJBQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.12/Quick%20X%20Preview13-12.delta" sparkle:deltaFrom="12" length="616418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+imIHQp8LRfNGTORo+V9o4NYspUPReWZmmzlU42AA4BZ25t3CQcNCXPrvLau+lNecqA2FSjpkqPKk9IUo2U+Cw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.11</title>
-            <pubDate>Thu, 19 Nov 2026 11:44:13 +0530</pubDate>
-            <sparkle:criticalUpdate/>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.11/Quick.X.Preview.1.11.dmg" length="10269579" type="application/octet-stream" sparkle:edSignature="Fjva7NCOgQv87lJkRN09eMohXVTPfxw2JxRJh1ptnpfv67SxdANjJ69nLwNzjva5N/N5PxtbqQNYi7v5te6IAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.11/Quick%20X%20Preview12-11.delta" sparkle:deltaFrom="11" length="188974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZEXlVjHSt5DAIS0ApB5cjxg8/nd90ieNE2rfnmZg39tRkG92PKbK70Q+fIyrnpjv1yNirU6oJMCdRhf6Kn2yCA=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.11/Quick%20X%20Preview12-10.delta" sparkle:deltaFrom="10" length="216430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VNK7hjUajDdcfHhv8CZeEtMaceMpu7LbmJ5XyEMnZ4jYFBYX2bvpESM/0AvVTzbZRhYOHaCjjgZ5iF+IQaNbBw=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.11/Quick%20X%20Preview12-8.delta" sparkle:deltaFrom="8" length="298882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CEN6QBVJvBq4Hk4V17nOlZ+oheie8M1kHCK+8UFCaYtv+RAQ/CJw6X9dtHtCff99wRR9w/K4QNUW/9uFLmE1DA=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.11/Quick%20X%20Preview12-7.delta" sparkle:deltaFrom="7" length="588902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2mE61DIiop1q3UYOWW8GYjNB0qZZmq6JOkkKwi+m1mp7UmuO4Z+BKqqkB1jxSu6AzHbXUdRb0UHzxG2rrT8BBQ=="/>
-                <enclosure url="https://github.com/1dotaidev/quick-x-preview-release/releases/download/v1.11/Quick%20X%20Preview12-6.delta" sparkle:deltaFrom="6" length="679942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hosTE9paRtVdsTf2A8AIQosY1DoVdFAT3pKpkfDmx3132q840NR8oESX02hVvOoZXMAcSCu1Zr13kJmNJZJqCg=="/>
             </sparkle:deltas>
         </item>
     </channel>
